@@ -1,0 +1,7 @@
+HI
+i am a new file
+i was added from the local machne after cloning the repo
+and pushing it back again.
+While pushing me back..
+origin url needn't be mentioned
+because the url is already there in the cloned local repo.
